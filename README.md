@@ -23,9 +23,9 @@ The app offers a user-friendly interface with dynamic visuals and weather-based 
 
 ## 🛠️ Built With
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
@@ -48,7 +48,6 @@ Open `index.html` in your browser
 **OR** deploy it using:
 
 - [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 - **GitHub Pages**
 
 ---
